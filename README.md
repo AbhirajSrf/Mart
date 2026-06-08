@@ -36,5 +36,4 @@ A modern and responsive mart management dashboard built with **React.js**, **Jav
 ### Overview
 ![Sidebar](./screenshots/ss3.png)
 
-![Dropdown](./screenshots/dropdown.png)
 
