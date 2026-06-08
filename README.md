@@ -1,12 +1,40 @@
-# React + Vite
+# 🛒 Mart Dashboard Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive mart management dashboard built with **React.js**, **JavaScript**, and **Tailwind CSS**. The application focuses on creating a clean user interface with reusable components and an intuitive user experience.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📊 Interactive Dashboard Layout
+- 📂 Collapsible Sidebar Navigation
+- 🔽 Dynamic Dropdown Menus
+- 📱 Fully Responsive Design
+- 🎨 Modern UI with Tailwind CSS
+- ⚡ Fast Component-Based Architecture
+- 🔄 State Management using React Hooks
+- 🧩 Reusable Components
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+
+### Development Tools
+- Vite / Create React App
+- Git & GitHub
+- VS Code
+
+## 📸 Screenshots
+
+### Overview
+![Dashboard](./screenshots/ss1.png)
+
+### Overview
+![Sidebar](./screenshots/ss2.png)
+
+### Overview
+![Sidebar](./screenshots/ss3.png)
+
+![Dropdown](./screenshots/dropdown.png)
+
